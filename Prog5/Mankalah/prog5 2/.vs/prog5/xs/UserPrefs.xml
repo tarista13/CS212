@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B65A3395-2936-497A-9F05-563AF655995C}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.prog5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="prog5/tja9Player.cs">
+    <Files>
+      <File FileName="prog5/Program.cs" Line="17" Column="53" />
+      <File FileName="prog5/PabloSanchez.cs" Line="46" Column="2" />
+      <File FileName="prog5/Player.cs" Line="73" Column="2" />
+      <File FileName="prog5/HumanPlayer.cs" Line="38" Column="2" />
+      <File FileName="prog5/Board.cs" Line="18" Column="6" />
+      <File FileName="prog5/ck45Player.cs" Line="203" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="prog5" expanded="True">
+            <Node name="prog5" expanded="True">
+              <Node name="bonzoPlayer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

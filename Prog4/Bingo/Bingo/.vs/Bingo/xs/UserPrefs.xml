@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{51E11ED5-651D-4117-AC65-C14823F8D70A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Bingo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="GraphEdge.cs" />
+      <File FileName="GraphNode.cs" />
+      <File FileName="Program.cs" Line="376" Column="1" />
+      <File FileName="RelationshipGraph.cs" />
+      <File FileName="bin/Debug/netcoreapp3.1/big.rg" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bingo" expanded="True">
+            <Node name="Bingo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

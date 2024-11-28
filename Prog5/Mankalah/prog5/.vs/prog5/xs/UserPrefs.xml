@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B65A3395-2936-497A-9F05-563AF655995C}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.prog5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="prog5/Board.cs">
+    <Files>
+      <File FileName="prog5/Program.cs" Line="18" Column="47" />
+      <File FileName="prog5/Player.cs" Line="73" Column="2" />
+      <File FileName="prog5/HumanPlayer.cs" Line="38" Column="2" />
+      <File FileName="prog5/Board.cs" Line="18" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

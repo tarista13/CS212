@@ -1,0 +1,15 @@
+/Users/t_arista/Downloads/CS212/Program1/Program1/Program1/obj/Debug/net6.0/Program1.csproj.AssemblyReference.cache
+/Users/t_arista/Downloads/CS212/Program1/Program1/Program1/obj/Debug/net6.0/Program1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/t_arista/Downloads/CS212/Program1/Program1/Program1/obj/Debug/net6.0/Program1.AssemblyInfoInputs.cache
+/Users/t_arista/Downloads/CS212/Program1/Program1/Program1/obj/Debug/net6.0/Program1.AssemblyInfo.cs
+/Users/t_arista/Downloads/CS212/Program1/Program1/Program1/obj/Debug/net6.0/Program1.csproj.CoreCompileInputs.cache
+/Users/t_arista/Downloads/CS212/Program1/Program1/Program1/bin/Debug/net6.0/Program1
+/Users/t_arista/Downloads/CS212/Program1/Program1/Program1/bin/Debug/net6.0/Program1.deps.json
+/Users/t_arista/Downloads/CS212/Program1/Program1/Program1/bin/Debug/net6.0/Program1.runtimeconfig.json
+/Users/t_arista/Downloads/CS212/Program1/Program1/Program1/bin/Debug/net6.0/Program1.dll
+/Users/t_arista/Downloads/CS212/Program1/Program1/Program1/bin/Debug/net6.0/Program1.pdb
+/Users/t_arista/Downloads/CS212/Program1/Program1/Program1/obj/Debug/net6.0/Program1.dll
+/Users/t_arista/Downloads/CS212/Program1/Program1/Program1/obj/Debug/net6.0/refint/Program1.dll
+/Users/t_arista/Downloads/CS212/Program1/Program1/Program1/obj/Debug/net6.0/Program1.pdb
+/Users/t_arista/Downloads/CS212/Program1/Program1/Program1/obj/Debug/net6.0/Program1.genruntimeconfig.cache
+/Users/t_arista/Downloads/CS212/Program1/Program1/Program1/obj/Debug/net6.0/ref/Program1.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GYEEpX/R1KfwDhCuGCRVntNiILFqMGYOB+9fNq9041l5VsGG4R3sZXzbIbaRPJ/mDWeH6i5d2x0N4YksGJIEsg==",
+  "success": true,
+  "projectFilePath": "/Users/t_arista/Downloads/CS212/Programs/Prog4/Bingo/Bingo/Bingo.csproj",
+  "expectedPackageFiles": [
+    "/Users/t_arista/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/t_arista/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/t_arista/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.31/microsoft.netcore.app.host.osx-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

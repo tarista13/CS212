@@ -1,0 +1,8 @@
+/Users/t_arista/Downloads/Prog5/Mankalah/prog5/prog5/MankalahPlayer/MankalahPlayer/bin/Debug/MankalahPlayer.dll
+/Users/t_arista/Downloads/Prog5/Mankalah/prog5/prog5/MankalahPlayer/MankalahPlayer/bin/Debug/MankalahPlayer.pdb
+/Users/t_arista/Downloads/Prog5/Mankalah/prog5/prog5/MankalahPlayer/MankalahPlayer/bin/Debug/MankalahLib.dll
+/Users/t_arista/Downloads/Prog5/Mankalah/prog5/prog5/MankalahPlayer/MankalahPlayer/obj/Debug/MankalahPlayer.csproj.AssemblyReference.cache
+/Users/t_arista/Downloads/Prog5/Mankalah/prog5/prog5/MankalahPlayer/MankalahPlayer/obj/Debug/MankalahPlayer.csproj.CoreCompileInputs.cache
+/Users/t_arista/Downloads/Prog5/Mankalah/prog5/prog5/MankalahPlayer/MankalahPlayer/obj/Debug/MankalahPlayer.csproj.CopyComplete
+/Users/t_arista/Downloads/Prog5/Mankalah/prog5/prog5/MankalahPlayer/MankalahPlayer/obj/Debug/MankalahPlayer.dll
+/Users/t_arista/Downloads/Prog5/Mankalah/prog5/prog5/MankalahPlayer/MankalahPlayer/obj/Debug/MankalahPlayer.pdb
